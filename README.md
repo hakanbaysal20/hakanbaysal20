@@ -77,6 +77,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/hakanbaysal20/hakanbaysal20/output/snake.svg" alt="Snake animation" />
 
 ###
