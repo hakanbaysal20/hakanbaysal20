@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm currently working on Flutter<br><br>- 🔭 I’m currently working on Flutter<br>- 📚 I'm currently learning Kotlin<br>- 💬 Ask me about dart, flutter, unity3d, C#<br>- 📫 How to reach me hbaysal236@gmail.com</p>
+<p align="left">I'm currently working on Flutter<br><br>- 🔭 I’m currently working on Flutter<br>- 📚 I'm currently learning Kotlin<br>- 💬 Ask me about dart, flutter, unity3d, C#<br>
 
 ###
 
